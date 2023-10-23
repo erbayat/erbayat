@@ -8,6 +8,4 @@
 
 💻 When I'm not on a horse or a trail, you can find me coding. I'm fluent in Python, C++, MATLAB, and more.
 
-🌟 Let's make the digital world more exciting, one line of code at a time!
 
-#PhDStudent #MachineLearning #ComputerVision #CodingEnthusiast
