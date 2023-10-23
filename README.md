@@ -1,16 +1,13 @@
-### Hi there 👋
+👋 Hello, I'm Egemen!
 
-<!--
-**erbayat/erbayat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 I'm a Ph.D. Candidate in Electrical Engineering at GW ECE, specializing in ML, computer vision, and network applications.
 
-Here are some ideas to get you started:
+🎓 Proud Alumnus of BOUN EE.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐎 I'm passionate about horse riding and exploring the great outdoors through hiking.
+
+💻 When I'm not on a horse or a trail, you can find me coding. I'm fluent in Python, C++, MATLAB, and more.
+
+🌟 Let's make the digital world more exciting, one line of code at a time!
+
+#PhDStudent #MachineLearning #ComputerVision #CodingEnthusiast
