@@ -1,8 +1,8 @@
 👋 Hello, I'm Egemen!
 
-📚 I'm a Ph.D. Candidate in Electrical Engineering at GW ECE, specializing in ML, computer vision, and network applications.
+📚 I'm a Ph.D. Candidate in Electrical & Computer Engineering at George Washington University, specializing in ML, computer vision, and network applications.
 
-🎓 Proud Alumnus of BOUN EE.
+🎓 Alumnus of Bogazici University Electrical & Electronics Engineering.
 
 🐎 I'm passionate about horse riding and exploring the great outdoors through hiking.
 
