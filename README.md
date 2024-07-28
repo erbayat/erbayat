@@ -1,6 +1,6 @@
 👋 Hello, I'm Egemen!
 
-📚 I'm a Ph.D. Candidate in Electrical & Computer Engineering at George Washington University, specializing in ML, computer vision, and network applications.
+📚 I'm a Ph.D. Student in Electrical & Computer Engineering at George Washington University, specializing in ML, computer vision, and network applications.
 
 🎓 Alumnus of Bogazici University Electrical & Electronics Engineering.
 
